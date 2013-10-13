@@ -1,3 +1,4 @@
+package mpr.exs;
 public class PrimesGen {
 
 	/*
